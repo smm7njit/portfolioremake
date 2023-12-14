@@ -55,7 +55,8 @@ const AboutSection = () => {
             I made this website as a redo for my midterm. It 
             taught me how to use GitHub issues in a more professional
             manner, and make them easier for other developers to read.
-            It also made me learn how to write out playwright tests.
+            I also learned about Resend in order to receive emails from
+            this website. It also made me learn how to write out playwright tests.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
