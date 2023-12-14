@@ -1,6 +1,6 @@
 This is a redo of my midterm, using Next.js instead of standard html and css. This version aims to improve upon my last version.
 
-My old [midterm],(https://github.com/smm7njit/midterm)had the following issues written by the grader:
+My old [midterm](https://github.com/smm7njit/midterm) had the following issues written by the grader:
 -Lighthouse scores are very low
 -No issues (Not formatted correctly and had no comments attached)
 -Playwright tests cannot run since there isn't a package.json in the
