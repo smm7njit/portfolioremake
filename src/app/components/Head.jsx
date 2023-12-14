@@ -1,8 +1,7 @@
 import { Component } from "react"
 import Head from "next/head"
 
-export default class extends Component {
-  render() {
+const Head = () => {
     return (
       <>
         <Head>
@@ -12,6 +11,6 @@ export default class extends Component {
         </Head>
         <div>Page Content</div>
       </>
-    )
-  }
-}
+    );
+  };
+export default Head;
