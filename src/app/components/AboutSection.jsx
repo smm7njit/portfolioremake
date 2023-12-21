@@ -52,7 +52,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I made this website as a redo for my midterm. It 
+            I made this website as a redo for my previous portfolio. It 
             taught me how to use GitHub issues in a more professional
             manner, and make them easier for other developers to read.
             I also learned about Resend in order to receive emails from
