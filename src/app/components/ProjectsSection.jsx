@@ -16,7 +16,7 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Landing Page",
+    title: "Soda Company Website",
     description: "Landing page using Next.JS",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
